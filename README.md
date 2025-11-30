@@ -56,7 +56,18 @@ ESP32
 
 ## 📊 GitHub Stats
 <!-- Replace YOUR_GITHUB_USERNAME -->
-- [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Nails8919=Nails8919)](https://github.com/anuraghazra/github-readme-stats)
+- 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nails8919&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    alt="GitHub stats for Nails8919" 
+    height="tps://github-readme-stats.vercel.app/api/top-langs/?username=Nails8919&layout=compact&theme=radical&langs_count=8&hide_border=false" 
+    alt="Topp align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical&hide_border=false" 
+    alt="GitHub -->
+<p align="center">
+  
 - Top Languages: English, learning japanese too!
 
 ---
