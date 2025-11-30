@@ -21,11 +21,11 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 
 ## 🛠 Skills & Tools
 <!-- Shields.io badges: change style and colors if desired -->
-Python
-C++
-TypeScript
-Docker
-Linux
+- Python
+- C++
+- TypeScript
+- Docker
+- Linux
 ESP32
 
 ---
@@ -49,7 +49,7 @@ ESP32
 
 ## 🌐 Connect With Me
 <!-- Replace with your real LinkedIn and email -->
-!  https://www.facebook.com/lisa.mapp89/
+https://www.facebook.com/lisa.mapp89/
 📧 Email: lmapp1@outlook.com
 
 ---
