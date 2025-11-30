@@ -55,9 +55,8 @@ ESP32
 ---
 
 ## 📊 GitHub Stats
-<!-- Replace YOUR_GITHUB_USERNAME -->
-- 
-<p align="center">
+<!-- Overall Stats -->
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Nails8919&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
     alt="GitHub stats for Nails8919" 
