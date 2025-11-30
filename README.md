@@ -66,9 +66,6 @@ ESP32
     src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical&hide_border=false" 
     alt="GitHub -->
 <p align="center">
-  
-- Top Languages: English, learning japanese too!
-
 ---
 
 ⭐ **Fun Fact:** I love blending hardware and software to create unique tech experiences!
