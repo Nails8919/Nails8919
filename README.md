@@ -67,7 +67,7 @@ ESP32
     alt="GitHub -->
 <p align="center">
 ---
-
+---
 ⭐ **Fun Fact:** I love blending hardware and software to create unique tech experiences!
-
+---
 </p>
