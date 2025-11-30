@@ -1,3 +1,3 @@
 <p align="center">
-  https://raw.githubusercontent.com/Nails8919/Nails8919/main/assets/banner.svg
+  https://raw.githubusercontent.com/Nails8919/Nails8919/master/assets/banner.svg
 </p>
