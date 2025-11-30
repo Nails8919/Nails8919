@@ -4,7 +4,7 @@
 <p>
   
 <!-- Main Heading and short intro -->
-# 👋 HiHi, My name is Lisa Mapp  
+                                            # 👋 HiHi, My name is Lisa Mapp  
 🎓 **Student | Tech Enthusiast | Programmer | Tinkerer**  
 
 I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and building cool things that blend hardware and software. Currently, I’m exploring **Docker** for home labs and working on a **gesture-controlled alarm clock** powered by an ESP-WROOM-32.
