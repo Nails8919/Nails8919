@@ -26,7 +26,7 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 - TypeScript
 - Docker
 - Linux
-ESP32
+- ESP32
 
 ---
 
@@ -66,7 +66,6 @@ ESP32
     src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical&hide_border=false" 
     alt="GitHub -->
 <p align="center">
----
   
 ---
 ⭐ **Fun Fact:** 
