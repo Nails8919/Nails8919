@@ -69,6 +69,7 @@ ESP32
 ---
   
 ---
-⭐ **Fun Fact:** I love blending hardware and software to create unique tech experiences!
+⭐ **Fun Fact:** 
+- I love blending hardware and software to create unique tech experiences!
 ---
 </p>
