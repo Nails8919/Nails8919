@@ -21,12 +21,12 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 
 ## 🛠 Skills & Tools
 <!-- Shields.io badges: change style and colors if desired -->
-!Python
-!C++
-!TypeScript
-!Docker
-!Linux
-!ESP32
+Python
+C++
+TypeScript
+Docker
+Linux
+ESP32
 
 ---
 
