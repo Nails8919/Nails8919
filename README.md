@@ -61,15 +61,6 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 
 ---
 
-<!-- Optional: Typing SVG banner under the stats -->
-<p align="center">
-  https://github.com/Nails8919
-    https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=25C6F7&center=true&vCenter=true&width=700&lines=Hi%2C+I
-  </a>
-</p>
-
----
-
 ⭐ **Fun Fact:** I love blending hardware and software to create unique tech experiences!
 
 </p>
