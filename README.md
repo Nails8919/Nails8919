@@ -1,3 +1,3 @@
 <p align="center">
-  assets/banner.svg
+  <img assets/banner.svg>
 </p>
