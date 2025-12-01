@@ -66,6 +66,8 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
     src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical&hide_border=false" 
     alt="GitHub -->
 <p align="center">
+
+---
   
 ---
 ⭐ **Fun Fact:** 
