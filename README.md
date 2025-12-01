@@ -49,7 +49,7 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 
 ## 🌐 Connect With Me
 <!-- Replace with your real LinkedIn and email -->
-- https://www.facebook.com/lisa.mapp89/
+- Facebook:  https://www.facebook.com/lisa.mapp89/
 - 📧 Email: lmapp1@outlook.com
 
 ---
