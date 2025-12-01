@@ -56,16 +56,17 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 
 ## 📊 GitHub Stats
 <!-- Overall Stats -->
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nails8919&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-    alt="" 
-    height="tps://github-readme-stats.vercel.app/api/top-langs/?username=Nails8919&layout=compact&theme=radical&langs_count=8&hide_border=false" 
-    alt="Topp align="left">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical&hide_border=false" 
-    alt="GitHub -->
-<p align="left">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nails8919&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    alt="GitHub stats for Nails8919"
+    height="165"
+ //github-readme-stats.vercel.app/api/top-langs/?username=Nails8919&layout=compact&theme=radical&langs_count=8"
+    alt="Top languages forter">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nails8919&theme=radical"
+    alt="GitHub streak stats for Nails8919"
+    height="165"
 
 ---
   
