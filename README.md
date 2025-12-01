@@ -59,7 +59,7 @@ I’m passionate about **TECHNOLOGY**, **IoT projects**, **Networking** and buil
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Nails8919&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="GitHub stats for Nails8919"
+    alt=""
     height="165"
  //github-readme-stats.vercel.app/api/top-langs/?username=Nails8919&layout=compact&theme=radical&langs_count=8"
     alt="Top languages forter">
